@@ -1,5 +1,5 @@
 # `INSTAL SCRIPT` 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget https://raw.githubusercontent.com/KARLTECHH/autoscript/main/setup.sh && chmod +x setup.sh && ./setup.sh</pre></code>
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget https://raw.githubusercontent.com/liontunnel/Scriptvpn/main/setup.sh && chmod +x setup.sh && ./setup.sh</pre></code>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
